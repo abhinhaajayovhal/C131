@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading1{
+    width: 100%;
+    font-size: 30px;
+    padding: 20px;
+    font-family: Georgia, 'Bahnschrift', Times, serif;
+    margin: 0px;
+    text-align: center;
+}
+.heading2{
+    font-size: 25px;
+    padding-left : 20px;
+    padding-right : 20px;
+    font-family: Arial, 'Bahnschrift', Times, serif;
+}
+hr{
+    height: 50px;
+}
